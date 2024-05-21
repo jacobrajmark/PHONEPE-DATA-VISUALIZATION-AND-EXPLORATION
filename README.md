@@ -13,10 +13,10 @@ The PhonePe Pulse website showcases more than 2000+ Crore transactions by consum
   6. json - (To load the json files)
   7. git.repo.base - (To clone the GitHub repository)
 
-## AIM
+## Aim
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository.
 
-## PROCESS
+## Process
  1. Data Extraction: Scripting to clone the repository and collect data.
   
  2. Data Transformation: Using Python and Pandas to clean and structure the data.
